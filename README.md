@@ -1,6 +1,6 @@
-# 🛒 E-commerce Web Application (Full Stack)
+# 🛒 E-commerce Web Application (Full Stack)- LabVStyle
 
-A full-stack e-commerce web application built using the MERN-style stack.  
+A full-stack e-commerce web application built using the MERN stack.  
 This project demonstrates backend architecture design, REST API development, authentication, and frontend-backend integration.
 
 ---
